@@ -1,4 +1,4 @@
-package extensions.manga.en.mangasee
+package extensions.manga.en.WeebCentral
 
 import eu.kanade.tachiyomi.multisrc.nepnep.NepNep
 import eu.kanade.tachiyomi.network.GET
@@ -10,7 +10,7 @@ import okhttp3.OkHttpClient
 import rx.Observable
 import java.util.concurrent.TimeUnit
 
-class MangaSee : NepNep("MangaSee", "https://mangasee123.com", "en") {
+class MangaSee : NepNep("WeebCentral", "http://weebcentral.com", "en") {
 
     override val id: Long = 9
 
