@@ -47,13 +47,13 @@
         "animefenix" : "🇪🇸"
     },
     "mangaAvailableExtensions" : {
-        "mangasee" : "https://github.com/K3vinb5/Unyo-Extensions/raw/main/compiled/manga/mangasee.jar",
+        "weebcentral" : "https://github.com/K3vinb5/Unyo-Extensions/raw/main/compiled/manga/weebcentral.jar",
         "mangalife" : "https://github.com/K3vinb5/Unyo-Extensions/raw/main/compiled/manga/mangalife.jar",
         "tcbscans" : "https://github.com/K3vinb5/Unyo-Extensions/raw/main/compiled/manga/tcbscans.jar",
         "mangakatana" : "https://github.com/K3vinb5/Unyo-Extensions/raw/main/compiled/manga/mangakatana.jar"
     },
     "mangaExtensionsLang" : {
-        "mangasee" : "🇬🇧",
+        "weebcentral" : "🇬🇧",
         "mangalife" : "🇬🇧",
         "tcbscans" : "🇬🇧",
         "mangakatana" : "🇬🇧"
